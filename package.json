@@ -1,0 +1,26 @@
+{
+  "name": "t1-tti301-arquitetura-sistemas",
+  "version": "1.0.0",
+  "description": "T1-TTI301-Arquitetura-Sistemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kusko99/T1-TTI301-Arquitetura-Sistemas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kusko99/T1-TTI301-Arquitetura-Sistemas/issues"
+  },
+  "homepage": "https://github.com/Kusko99/T1-TTI301-Arquitetura-Sistemas#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
